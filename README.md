@@ -1,5 +1,7 @@
 # Wad-Practical
-step1: npm init
+Step1: npm init (if this gives error run step 2)
 
-step2: npm i express mongoose ejs-mate method-override
+Step2: npm i express mongoose ejs-mate method-override
+
+Go to link http://localhost:3000/products
 
