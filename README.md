@@ -1,7 +1,5 @@
-# Wad-Practical
-Step1: npm init (if this gives error run step 2)
-
-Step2: npm i express mongoose ejs-mate method-override
-
-Go to link http://localhost:3000/products
+# Wad-Practical Angular
+- create new component by command ng generate component home
+- For making a form  copy content from home.html to home.component.html
+- In app-routing.module.ts `import { HomeComponent } from './home/home.component';` in Routes list add  {path:'', component: HomeComponent} 
 
