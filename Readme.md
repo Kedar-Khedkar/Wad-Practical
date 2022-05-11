@@ -4,7 +4,7 @@ JQuery Mobile is a user interface framework, built on jQuery Core and used for d
 jQuery Mobile framework is based on JavaScript programming language. 
 
 <br>
-## Why to use jQuery Mobile?
+# Why to use jQuery Mobile?
 
 - It creates web applications in such a way that it will work the same way on the mobile, tablet and desktop devices.
 
